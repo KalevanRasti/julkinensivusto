@@ -1,2 +1,2 @@
-# kuvat.kr.github.io
-Kalevan Rasti kuvat
+# kalevanrasti.github.io
+Kalevan Rasti julkiset sivut
